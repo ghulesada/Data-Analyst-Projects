@@ -10,8 +10,9 @@ I've solved a number of business problems/case studies with Python (machine lear
 
 Meanwhile, I am pursuing a postgraduate degree in data science and have been accepted into a data science internship programme provided by TCR. 
 
-I'm also interested in producing technical writing; here are a few examples.
-How can tech companies develop effective data science products?
+I'm also interested in producing technical writing; here are a few examples.<br>
+1. How can tech companies develop effective data science products?
 - https://bit.ly/3s2BhP0
-How to Tell a Good Data Story
+
+2. How to Tell a Good Data Story
 - https://bit.ly/3MNRbX5 
