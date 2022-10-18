@@ -1,0 +1,3 @@
+# IPL Data Visualisation
+
+IFP, a nationally recognised news agency, which is based out of New Delhi, and provides news reports and feeds to magazines, newspapers and TV broadcasters all over the country. The Sports Editor of the agency has approached you to build a Tableau dashboard of IPL statistics over the years since its inception in order to create an infographic for a newsletter that their team is working on. For this newsletter, in some cases, they will use the visual representations as you have created in Tableau directly for their infographic, and in a few other cases, they will use important statistics after trying out the different filters and customisations that you have provided for interactivity.
